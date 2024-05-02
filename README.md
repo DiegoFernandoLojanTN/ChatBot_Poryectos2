@@ -1,7 +1,6 @@
-# Chatbot de Ayuda para Información del "Reglamento Académico UNL Guía para la elaboración de Trabajos de Titulación y PIC"
+# Chatbot de Ayuda para Información del Reglamento Académico UNL Guía para la elaboración de Trabajos de Titulación y PIC
 
-## Nombre del Chatbot:
-"Asistente de Titulación UNL"
+#Nombre del Chatbot: Asistente de Titulación UNL
 
 ## Instalación:
 1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
