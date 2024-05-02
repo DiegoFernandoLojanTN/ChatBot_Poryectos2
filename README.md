@@ -24,3 +24,6 @@ Este proyecto consiste en un chatbot diseñado para proporcionar ayuda e informa
 4. Genera embeddings de texto utilizando OpenAI para representar el contenido de los documentos.
 5. Configura un chatbot utilizando el modelo GPT-3.5 de OpenAI.
 6. Interactúa con el chatbot para proporcionar respuestas a preguntas relacionadas con los documentos académicos de la UNL.
+
+## Interfaz en Streamlit:
+También puedes encontrar una interfaz desplegada en Streamlit en el siguiente repositorio fork: [ChatBot_Proyectos2](https://github.com/jahirxtrap/ChatBot_Proyectos2), donde se realiza la implementación de la interfaz para una experiencia más interactiva.
